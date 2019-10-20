@@ -1,0 +1,13 @@
+{
+  "name": "perdibot",
+  "version": "1.0.0",
+  "description": "Perdi vei",
+  "main": "bot.js",
+  "author": "CaioTorre",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "npm": "^6.3.0",
+    "winston": "^3.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
